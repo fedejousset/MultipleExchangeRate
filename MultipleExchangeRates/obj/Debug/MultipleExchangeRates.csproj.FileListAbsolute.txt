@@ -1,0 +1,7 @@
+C:\Users\fjousset\Documents\Visual Studio 2015\Projects\MultipleExchangeRates\MultipleExchangeRates\bin\Debug\MultipleExchangeRates.dll
+C:\Users\fjousset\Documents\Visual Studio 2015\Projects\MultipleExchangeRates\MultipleExchangeRates\bin\Debug\MultipleExchangeRates.pdb
+C:\Users\fjousset\Documents\Visual Studio 2015\Projects\MultipleExchangeRates\MultipleExchangeRates\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\fjousset\Documents\Visual Studio 2015\Projects\MultipleExchangeRates\MultipleExchangeRates\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\fjousset\Documents\Visual Studio 2015\Projects\MultipleExchangeRates\MultipleExchangeRates\obj\Debug\MultipleExchangeRates.dll
+C:\Users\fjousset\Documents\Visual Studio 2015\Projects\MultipleExchangeRates\MultipleExchangeRates\obj\Debug\MultipleExchangeRates.pdb
+C:\Users\fjousset\Documents\Visual Studio 2015\Projects\MultipleExchangeRates\MultipleExchangeRates\obj\Debug\MultipleExchangeRates.csprojResolveAssemblyReference.cache
